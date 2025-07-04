@@ -6,3 +6,4 @@ pip install opencv-python
 pip install Pillow
 pip install streamlit
 
+use python script codes to generate images
